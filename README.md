@@ -31,12 +31,12 @@ The HR dataset was sourced from Google Drive. You can find the raw file at https
 
 6-**Merging First and Last Name Columns into Full Name**
 
- **Splitting Hire Date into Day, Month, and Year**
+7-**Splitting Hire Date into Day, Month, and Year**
 
- **Replacing City Values**:
+ 8-**Replacing City Values**:
  'NY' with 'New York', 'IL' with 'Illinois', and 'CA' with 'California'.
     
-**Conditional Columns**
+9-**Conditional Columns**
 - **Age Categories**: We created a conditional column to classify employees into different age categories based on their ages.
   - **Categories**: 
     - Young Adult (18-29)
@@ -56,5 +56,5 @@ The HR dataset was sourced from Google Drive. You can find the raw file at https
     - Mid-Level Employees (2-5)
     - Experienced Employees (5-10)
 
-**Custom Columns using M Language**
+10-**Custom Columns using M Language**
 - **Percentage of Training Opportunities Taken**: We used M Language to create a custom column that calculates the percentage of training opportunities taken by each employee.
