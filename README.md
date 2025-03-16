@@ -18,18 +18,18 @@ The HR dataset was sourced from Google Drive. You can find the raw file at https
 - Data Modeling
 
 ##  Data Cleaning
-**Setting the First Row as a Header**
+1-**Setting the First Row as a Header**
 
-**Removing Null Values**
+2-**Removing Null Values**
   
-**Removing Empty Columns**
+3-**Removing Empty Columns**
 
 
-**Renaming Unclear Titles**
+4-**Renaming Unclear Titles**
 
-**Capitalizing Each Word in Columns**
+5-**Capitalizing Each Word in Columns**
 
-**Merging First and Last Name Columns into Full Name**
+6-**Merging First and Last Name Columns into Full Name**
 
  **Splitting Hire Date into Day, Month, and Year**
 
