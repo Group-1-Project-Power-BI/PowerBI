@@ -24,7 +24,6 @@ The HR dataset was sourced from Google Drive. You can find the raw file at https
   
 3-**Removing Empty Columns**
 
-
 4-**Renaming Unclear Titles**
 
 5-**Capitalizing Each Word in Columns**
@@ -58,3 +57,4 @@ The HR dataset was sourced from Google Drive. You can find the raw file at https
 
 10-**Custom Columns using M Language**
 - **Percentage of Training Opportunities Taken**: We used M Language to create a custom column that calculates the percentage of training opportunities taken by each employee.
+##Data Analysis
